@@ -1,0 +1,17 @@
+<lib>
+  <book>
+    <title>c++</title>
+    <id>111</id>
+    <price>500</price>
+  </book>
+  <book>
+    <title>c</title>
+    <id>222</id>
+    <price>500</price>
+  </book>
+  <book>
+    <title>java</title>
+    <id>333</id>
+    <price>500</price>
+  </book>
+</lib>
